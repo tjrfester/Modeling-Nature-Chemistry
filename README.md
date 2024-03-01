@@ -1,7 +1,7 @@
 # Modeling-Nature-Chemistry
 Here I will store Pov-Ray scripts and -approaches for modeling chemical structures. 
 
-Let's start with modeling atoms! Or let's better say modeling electron envelopes. I will include scripts and images for the 1s, the 2s and the 2py-orbital. There will be a video covering the theoretic background for this in my youtube channel. 
+Let's start with modeling atoms! Or let's better say modeling electron envelopes. I will include scripts and images for the 1s, the 2s and the 2py-orbital. Here is the link for a youtube-video covering the theoretical background: https://www.youtube.com/watch?v=BfG_aMN3F-U
 
 1s-Orbital (section)
 ![1SOrbital](https://github.com/tjrfester/Modeling-Nature-Chemistry/assets/153545618/aa16ec50-9b81-4075-ad75-6855ffb747c8)
@@ -14,5 +14,5 @@ For modeling the s-orbitals you need a method for evenly distributing elements o
 
 
 
-My first real structure is a fullerene. For a description of this structure, have a look at the upcoming youtube video. 
+My first real structure is a fullerene. For a description of this structure, have a look at this youtube video: https://www.youtube.com/watch?v=wqR_b8usU4Q
 ![FullerenNeuBlob](https://github.com/tjrfester/Modeling-Nature-Chemistry/assets/153545618/308f053d-ecd4-4561-a12b-598367c74690)
