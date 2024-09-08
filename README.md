@@ -26,13 +26,13 @@ be extracted directly from Avogadro xyz-files, this is not the case for the cyli
 I always have problems finding this information as well. My work-around was to give a number to each atom and to display these numbers close to the atoms. From looking at these dot clouds from several 
 angles you can infer the chemical structure and which atom has to be connected to which. Then you can introduce the cylinders. 
 Another problem with transferring data from xyz- and other files into pov-ray was that in my hands pov-ray always displayed precisely the wrong chirality. Unfortunately I have not been able to solve this problem 
-but by producing the "wrong" enantiomer in Avogadro and then obtaining the right one in Pov-Ray. (I did not use this approach for penicilling, so the structure above should be the wrong enantiomer.) If anyone has 
+but by producing the "wrong" enantiomer in Avogadro and then obtaining the right one in Pov-Ray. (I did not use this approach for penicillin G, so the structure above should be the wrong enantiomer.) If anyone has 
 an idea about this problem, please tell me... 
 With larger structures, like this endoglucanase below together with its substrate, the "ball and stick" approach no longer makes much sense, so here I am only displaying the position of atoms. Data, again, have been obtained from the Protein Data Bank. 
 ![05endoglucanasej](https://github.com/user-attachments/assets/ad6187dd-954f-48f6-a53c-e5c9e0b61f6e)
 Apart from this more or less chaotic chemical structures, there are also very regular structures, which can be modeled in pov-ray directly. Below I am presenting two examples: 
 A fullerene - for a description of this structure, have a look at this youtube video: https://www.youtube.com/watch?v=wqR_b8usU4Q
 ![FullerenNeuBlob](https://github.com/tjrfester/Modeling-Nature-Chemistry/assets/153545618/308f053d-ecd4-4561-a12b-598367c74690)
-And a clay mineral: individual layers are composed of two layers of phyllosilicate sandwiching one layer of aluminium and oxygen ions. Layers are surrounded by loosely attached cations on their upper and lower side. 
+And a clay mineral: individual layers are composed of two layers of phyllosilicate (orange-red colours) sandwiching one layer of aluminium (blue colour) and oxygen ions. Layers are surrounded by loosely attached cations (yellow colour) on their upper and lower side. 
 (In soil science these minerals are important because they serve as buffers for binding these cations which are important plant nutrients.) 
 ![06Silikat10b](https://github.com/user-attachments/assets/55ff2478-d1ca-4777-9311-616d2811396d)
